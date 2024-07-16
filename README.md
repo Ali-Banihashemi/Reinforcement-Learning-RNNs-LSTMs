@@ -29,7 +29,7 @@ This was done for the AI course in 2024 at the University of Tehran under the in
 - **Search Algorithms**: Learn and implement various search techniques, including A*, min-max, DFS, BFS, and UCS.
 
 ## Resources
-To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/u/0/folders/1Drdo6qass9UZF-TNPWr8soLuGGxjN-J7).
+To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/folders/1Drdo6qass9UZF-TNPWr8soLuGGxjN-J7?usp=drive_link).
 
 Sorry for the lack of references, as I forgot to include them.
 
